@@ -1,0 +1,94 @@
+@media (max-width: 1199px) {
+  .header_sec .app_banner .app_banner_left h1 {
+    font-size: 40px;
+  }
+  .custom_heading h1 {
+    font-size: 30px;
+  }
+  .jack_sec h1 {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 991px) {
+  .pt-80 {
+    padding-top: 50px;
+  }
+  .pb-80 {
+    padding-bottom: 50px;
+  }
+  .pb-30 {
+    padding-bottom: 0;
+  }
+  .pb-50 {
+    padding-bottom: 20px;
+  }
+  .app_banner_left.mt-120 {
+    margin-top: 80px;
+  }
+}
+
+@media (max-width: 767px) {
+  .app_banner_left.mt-120 {
+    margin-top: 30px;
+    margin-bottom: 60px;
+  }
+  .header_sec .app_banner .app_banner_left h1 {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 575px) {
+  .pt-80 {
+    padding-top: 30px !important;
+  }
+  .pb-80 {
+    padding-bottom: 30px !important;
+  }
+  .pb-50 {
+    padding-bottom: 0px !important;
+  }
+  .custom_heading h1, .custom_heading h2 {
+    font-size: 20px;
+  }
+  .header_sec .app_banner .app_banner_left h1 {
+    font-size: 20px;
+  }
+  .feature_text h4 {
+    font-size: 17px;
+  }
+  .jack_sec h1 {
+    font-size: 20px;
+  }
+  .simgle_jac h5 {
+    font-size: 17px;
+  }
+  .code_content h2 {
+    font-size: 20px;
+  }
+  .single_ultimate h5 {
+    font-size: 17px;
+  }
+  .owl-nav {
+    display: none !important;
+  }
+  .download_sec h2 {
+    font-size: 20px;
+  }
+  .client_content h5 {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .header_sec .app_banner .app_banner_left .choice span {
+    font-size: 13px;
+  }
+  .client_text h5 {
+    font-size: 16px;
+  }
+  .client_text p {
+    font-size: 14px;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
